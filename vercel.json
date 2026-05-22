@@ -6,9 +6,7 @@
       "use": "@vercel/node",
       "config": {
         "includeFiles": [
-          "public/**",
-          "assets/**",
-          "data/**"
+          "dist**"
         ]
       }
     }
