@@ -137,16 +137,29 @@
     "username": "pinjemgeh.id",
     "productId": "ai_plus_7",
     "price": 20000,
-    "status": "WAITING_ADMIN_CONFIRMATION",
+    "status": "PAID",
     "createdAt": "2026-05-22T05:27:23.478Z",
     "proofChannelId": "1507253821980672162",
     "proofRequestedAt": "2026-05-22T05:28:34.631Z",
-    "updatedAt": "2026-05-22T05:29:07.520Z",
+    "updatedAt": "2026-05-22T05:33:49.363Z",
     "proofUrl": "https://cdn.discordapp.com/attachments/1507253821980672162/1507253959461568703/IMG_5242.png?ex=6a113b23&is=6a0fe9a3&hm=e0572e65bcf4a0ae1642b3279cfb7e3a8415d28b6cf8e51bdaa8a5d947ff7dfa&",
     "proofFileName": "IMG_5242.png",
     "proofMessageId": "1507253959285411911",
     "proofMessageUrl": "https://discord.com/channels/1073212722843488276/1507253821980672162/1507253959285411911",
     "note": "",
-    "proofSubmittedAt": "2026-05-22T05:29:07.519Z"
+    "proofSubmittedAt": "2026-05-22T05:29:07.519Z",
+    "channelId": "1507255138912436226",
+    "paidAt": "2026-05-22T05:33:49.362Z",
+    "confirmedBy": "1368411066870136988"
+  },
+  {
+    "id": "ORD-MPGITX85-V2GV",
+    "guildId": "1073212722843488276",
+    "userId": "1368411066870136988",
+    "username": "cigarettesafterngentot_",
+    "productId": "ai_plus_30",
+    "price": 30000,
+    "status": "WAITING_PAYMENT",
+    "createdAt": "2026-05-22T06:10:56.501Z"
   }
 ]
